@@ -1,3 +1,6 @@
 [submodule "everforest"]
 	path = everforest
 	url = https://github.com/Apeiros-46B/everforest-walls.git
+[submodule "catppuccin"]
+	path = catppuccin
+	url = https://github.com/zhichaoh/catppuccin-wallpapers.git
